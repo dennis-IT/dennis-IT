@@ -2,7 +2,7 @@
 
 💻 I’m a junior web developer<br />
 ⏰ I love learning new technologies to help people 😃<br />
-📌 I’m looking forward to meeting up other developers<br />
+📌 I’m looking forward to meeting up with other developers<br />
 🏈 My Goals: Contribute more to Open Source projects
 
 ## Languages and Tools
