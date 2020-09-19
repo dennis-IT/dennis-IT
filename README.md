@@ -1,8 +1,8 @@
 ## Hello, I'm Dennis 👋
 
-💻 I’m a junior web developer
-⏰ I love learning new technologies to help people 😃
-📌 I’m looking forward to meeting up other developers
+💻 I’m a junior web developer<br />
+⏰ I love learning new technologies to help people 😃<br />
+📌 I’m looking forward to meeting up other developers<br />
 🏈 My Goals: Contribute more to Open Source projects
 
 ## Languages and Tools
