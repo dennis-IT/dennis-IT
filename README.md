@@ -1,11 +1,11 @@
-## Hello, I'm Dennis 👋
+# Hello, I'm Dennis 👋
 
 - 💻 I’m a junior web developer
 - ⏰ I love learning new technologies to help people 😃
 - 📌 I’m looking forward to meeting up other developers
 - 🏈 My Goals: Contribute more to Open Source projects
 
-### Connect with me:
+## Connect with me
 
 [<img align="left" alt="Dennis Ta | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
